@@ -1,5 +1,10 @@
 # snake-game
 
+## Demo Link
+```
+https://snakee-game.herokuapp.com/
+```
+
 ## Project setup
 ```
 yarn
